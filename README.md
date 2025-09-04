@@ -5,7 +5,7 @@
 
 ---
 ## Porject Structure
-- [View](Folder Structure.md)
+- [View](https://github.com/AmSh4/NexPay/blob/main/Folder%20Structure.md)
 
   ---
 ## Features
@@ -105,4 +105,5 @@ Contributions are welcome! Fork the repo, make changes, and submit a PR. Focus o
 
 ## License
 MIT License.
+
 
